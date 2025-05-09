@@ -4,7 +4,8 @@
 ### ▶️ [1 Server Setup Demo video](https)
 
 ### ▶️ [2 App Editing and Setup video](https)
-### Termux Storege Permissions 
+
+### Termux All Setup Comands 
 
 ```
 pkg update && pkg upgrade -y
